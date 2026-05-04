@@ -3,7 +3,7 @@
 
 
 
-Hi, myself @Sajidmogged. I'm currently learning and improving my skills. • I'm working on open sourced projects, • building free software and essentials. • My web experiences:
+Hi, myself @Sajidmogged. I'm currently learning and improving my skills. • I'm working on open sourced projects, • building free software and essentials. • Programming and logics:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 # • GITHUB STATS •
